@@ -1,3 +1,5 @@
+<img src="https://blog.crowsec.com.br/content/images/size/w2000/2023/04/Copy-of-POP-Chains-Gadget.jpg">
+
 # Laboratório de desserialização insegura em PHP
 Laboratório desenvolvido para o [blog da crowsec](https://blog.crowsec.com.br/).
 
