@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GDVoi7tZAltir+cMR71GRzfnMzihfM28jpehiPq+fPa+BRSop3eKkQTryaVCcdQ5QVOnZyIDqZLrOTHgae9YTA==",
+  "dgSpecHash": "K2Ps+RQLC6ceCOaNTJUFXLWFMDfJulYmD0Oq88s3VTEhPyWH/1rXA/oZZ2ZH8w29I8+vM6LUgR+DO4xK0N+c/w==",
   "success": true,
-  "projectFilePath": "/home/tris0n/labs/blog/dotnet-desserialization/Example/Example.csproj",
+  "projectFilePath": "/home/tris0n/labs/blog/chall-dotnet-deserialization/Example/Example.csproj",
   "expectedPackageFiles": [
     "/home/tris0n/.nuget/packages/microsoft.aspnetcore.jsonpatch/7.0.13/microsoft.aspnetcore.jsonpatch.7.0.13.nupkg.sha512",
     "/home/tris0n/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/7.0.13/microsoft.aspnetcore.mvc.newtonsoftjson.7.0.13.nupkg.sha512",

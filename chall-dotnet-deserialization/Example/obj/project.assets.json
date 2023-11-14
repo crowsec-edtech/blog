@@ -706,11 +706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tris0n/labs/blog/dotnet-desserialization/Example/Example.csproj",
+      "projectUniqueName": "/home/tris0n/labs/blog/chall-dotnet-deserialization/Example/Example.csproj",
       "projectName": "Example",
-      "projectPath": "/home/tris0n/labs/blog/dotnet-desserialization/Example/Example.csproj",
+      "projectPath": "/home/tris0n/labs/blog/chall-dotnet-deserialization/Example/Example.csproj",
       "packagesPath": "/home/tris0n/.nuget/packages/",
-      "outputPath": "/home/tris0n/labs/blog/dotnet-desserialization/Example/obj/",
+      "outputPath": "/home/tris0n/labs/blog/chall-dotnet-deserialization/Example/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tris0n/.nuget/NuGet/NuGet.Config"
