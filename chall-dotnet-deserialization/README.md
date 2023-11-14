@@ -30,6 +30,6 @@ sudo apt install docker.io docker-compose -y
 ```
 sudo pacman -Syu docker docker-compose
 ```
-<br/><br/>
+<br/>
 
 > Copyright (c) 2023 Crowsec EdTech
