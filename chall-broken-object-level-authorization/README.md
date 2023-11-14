@@ -1,3 +1,5 @@
+<img src="https://blog.crowsec.com.br/content/images/size/w2000/2023/03/Bola--1-.png">
+
 # Laboratório de Broken Object Level Authorization
 Laboratório desenvolvido para o [blog da crowsec](https://blog.crowsec.com.br/).
 

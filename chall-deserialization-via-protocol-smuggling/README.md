@@ -1,3 +1,5 @@
+<img src="https://blog.crowsec.com.br/content/images/size/w2000/2023/05/SSFR-PROTOCOL.png">
+
 # Laboratório de desserialização insegura no Laravel via Protocol Smuggling
 Laboratório desenvolvido para o [blog da crowsec](https://blog.crowsec.com.br/).
 
