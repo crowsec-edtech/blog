@@ -46,6 +46,6 @@ public class UsersController : ControllerBase
             return new JsonResult(new { Users = response.ToArray() });
         }
 
-        return new JsonResult(users);
+        return new JsonResult(new { Users = users });
     }
 }
