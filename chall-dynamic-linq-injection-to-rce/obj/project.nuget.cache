@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "sM8/OLAu+MDVY7lUgpm0eF+TO7kI5I6ECEUdKMX7vM+vj2hYQaemj7PG04ostswfS0E7auZqTXF0sm3cMaUghA==",
+  "success": true,
+  "projectFilePath": "/home/tris0n/labs/blog/chall-dynamic-linq-injection-to-rce/DynamicLinqToRce/DynamicLinqToRce.csproj",
+  "expectedPackageFiles": [
+    "/home/tris0n/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "/home/tris0n/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/tris0n/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/tris0n/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/tris0n/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/tris0n/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/tris0n/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/tris0n/.nuget/packages/system.linq.dynamic.core/1.2.25/system.linq.dynamic.core.1.2.25.nupkg.sha512"
+  ],
+  "logs": []
+}
